@@ -8,7 +8,7 @@ You will:
 
 In this project you will follow along with the Scrimba Promise Rejection capstone to create a Personal Dashboard for your Chrome Browser. Note you are only required to submit the project code. You DO NOT need to submit the deployed Chrome extension. 
 
-Scrimba Reference Link: https://scrimba.com/learn/frontend/update-trycatch-coc8943e9b5f4e75acabb6641
+Scrimba Reference Link: https://scrimba.com/learn/frontend/promise-rejection-coc4a4e4d8d208ab33b190dd5
 
 ![](<[JSL09 Solution].png>)
 Note that this background image is dynamically generated so your's will look different.
