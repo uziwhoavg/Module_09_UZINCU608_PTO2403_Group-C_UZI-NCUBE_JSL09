@@ -1,4 +1,4 @@
-# [JSL09] Submission: Escaping Vanilla JS: Abstraction Challenge
+# [JSL09] Submission: Personal Dashboard Chrome Extension
 
 You will:
 1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_09_StudentNo_Classcode_Group_Name-Surname_JSL09
@@ -6,20 +6,23 @@ You will:
 3. Commit changes to your GitHub repository.
 4. Submit the GitHub Repository Link to the LMS [JSL09] Submission Project Tab.
 
-The Escape Vanilla JS Challenge is an interactive web-based project focusing on debugging skills, problem-solving, and the concept of abstraction. You will navigate through three themed "rooms," each presenting a unique challenge that requires them to debug and correct given JavaScript code to proceed. This adventure is themed around escaping the confines of Vanilla JavaScript to advance towards learning React.
+Scrimba Reference Link: https://scrimba.com/learn/frontend/update-trycatch-coc8943e9b5f4e75acabb6641
 
 ![](<[JSL09 Solution].png>)
-Note that this background image is dynamically generated so it will look different.
+Note that this background image is dynamically generated so your's will look different.
 
 ## What You Need to Do:
 
 1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/CodeSpace-Academy/Module_09_StudentNo_Classcode_Group_Name-Surname_JSL09
 2. Open the cloned project in your code editor.
-3. Code your solution for each of the challenges as per the provided instructions.
-4. Commit your changes to your local Git repository with meaningful commit messages.
-5. Push your local Git repository to your GitHub account.
-6. Verify that the changes have been successfully pushed to your GitHub repository.
+3. Code your solution for the challenge as per the provided instructions.
+4. If you have coded your Personal Dashboard challenge in Scrimba, you will need to download the zip folder of your project files. Unzip the project files into your JSL09 project repo on GitHub. Make sure to NOT use the Scrimba README. Instead you will keep your starter code README.
+5. Commit your changes to your local Git repository with meaningful commit messages.
+6. Push your local Git repository to your GitHub account.
+7. Verify that the changes have been successfully pushed to your GitHub repository.
 
+![alt text](download-scrimba-files.png)
+You can download your Scrimba files in the bottom right hand corner of the Scrimba IDE panel. 
 
 ## What You Need to Include:
 
