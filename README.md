@@ -6,6 +6,8 @@ You will:
 3. Commit changes to your GitHub repository.
 4. Submit the GitHub Repository Link to the LMS [JSL09] Submission Project Tab.
 
+In this project you will follow along with the Scrimba Promise Rejection capstone to create a Personal Dashboard for your Chrome Browser. Note you are only required to submit the project code. You DO NOT need to submit the deployed Chrome extension. 
+
 Scrimba Reference Link: https://scrimba.com/learn/frontend/update-trycatch-coc8943e9b5f4e75acabb6641
 
 ![](<[JSL09 Solution].png>)
